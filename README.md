@@ -1,2 +1,2 @@
 # tools
-Collection of things are are Pretty Neat
+Collection of things that are Pretty Neat
